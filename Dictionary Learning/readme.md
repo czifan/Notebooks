@@ -1,3 +1,4 @@
+# Dictionary Learning（字典学习）
 字典学习的数学描述如下，
 
 $$\min_{\mathbf{D},\mathbf{X}}\left \|\mathbf{Y}-\mathbf{D}\mathbf{X}\right \|^2_F,\ s.t. \forall i,\left \|x_i\right \|_0\leq T_0, $$
